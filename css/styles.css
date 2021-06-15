@@ -41,7 +41,6 @@ a {
     width: 100%;
     top: 0;
     transition: .3 linear;
-    box-shadow: 0 0 10px 0 #494949;
 }
 
 .inner-width {
